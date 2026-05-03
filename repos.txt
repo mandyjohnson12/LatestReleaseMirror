@@ -4,4 +4,5 @@
 # Filters are case‑insensitive regular expressions (grep -E).
 
 therealaleph/MasterHttpRelayVPN-RUST|\.apk|\.exe|
+optiscaler/OptiScaler
 
