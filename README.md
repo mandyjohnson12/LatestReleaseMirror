@@ -157,6 +157,18 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="optiscaler--optiscaler"></div>
+
+### optiscaler--OptiScaler
+
+🔗 [source](https://github.com/optiscaler/OptiScaler) – [<code><small>v0.9.1</small></code>](https://github.com/optiscaler/OptiScaler/releases/tag/v0.9.1)
+
+| File | Size | Download |
+|------|------|----------|
+| `Optiscaler_0.9.1-final.20260427._DSB.7z` | 50.8 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/optiscaler/OptiScaler/Optiscaler_0.9.1-final.20260427._DSB.7z) |
+
+---
+
 <div id="therealaleph--masterhttprelayvpn-rust"></div>
 
 ### therealaleph--MasterHttpRelayVPN-RUST
