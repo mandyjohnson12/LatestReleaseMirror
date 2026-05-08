@@ -5,4 +5,4 @@
 
 therealaleph/MasterHttpRelayVPN-RUST|\.apk|\.exe|
 optiscaler/OptiScaler
-
+ThisIsDara/mhr-cfw-go|\.exe
