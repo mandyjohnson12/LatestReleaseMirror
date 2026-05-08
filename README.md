@@ -157,6 +157,20 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="thisisdara--mhr-cfw-go"></div>
+
+### ThisIsDara--mhr-cfw-go
+
+🔗 [source](https://github.com/ThisIsDara/mhr-cfw-go) – [<code><small>v1.3.0</small></code>](https://github.com/ThisIsDara/mhr-cfw-go/releases/tag/v1.3.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `mhr-cfw-go-windows-386.exe` | 6.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-386.exe) |
+| `mhr-cfw-go-windows-amd64.exe` | 6.6 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-amd64.exe) |
+| `mhr-cfw-go-windows-arm64.exe` | 6.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/ThisIsDara/mhr-cfw-go/mhr-cfw-go-windows-arm64.exe) |
+
+---
+
 <div id="optiscaler--optiscaler"></div>
 
 ### optiscaler--OptiScaler
