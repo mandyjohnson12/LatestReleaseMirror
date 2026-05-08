@@ -157,6 +157,21 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="cluvexstudio--zedsecure"></div>
+
+### CluvexStudio--ZedSecure
+
+🔗 [source](https://github.com/CluvexStudio/ZedSecure) – [<code><small>v1.9.0</small></code>](https://github.com/CluvexStudio/ZedSecure/releases/tag/v1.9.0)
+
+| File | Size | Download |
+|------|------|----------|
+| `ZedSecure-v1.9.0-arm64-v8a.apk` | 35.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/CluvexStudio/ZedSecure/ZedSecure-v1.9.0-arm64-v8a.apk) |
+| `ZedSecure-v1.9.0-armeabi-v7a.apk` | 35.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/CluvexStudio/ZedSecure/ZedSecure-v1.9.0-armeabi-v7a.apk) |
+| `ZedSecure-v1.9.0-universal.apk` | 76.9 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/CluvexStudio/ZedSecure/ZedSecure-v1.9.0-universal.apk) |
+| `ZedSecure-v1.9.0-x86_64.apk` | 37.0 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/CluvexStudio/ZedSecure/ZedSecure-v1.9.0-x86_64.apk) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
