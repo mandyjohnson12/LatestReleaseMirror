@@ -5,5 +5,5 @@
 
 therealaleph/MasterHttpRelayVPN-RUST|\.apk|\.exe|
 optiscaler/OptiScaler
-ThisIsDara/mhr-cfw-go|\.exe
-CluvexStudio/ZedSecure|\.apk
+ThisIsDara/mhr-cfw-go
+denuitt1/mhr-cfw
