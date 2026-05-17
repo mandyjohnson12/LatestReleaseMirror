@@ -157,6 +157,23 @@ sha256sum FILE_NAME
 
 
 <!-- RELEASES_START -->
+<div id="gfw-knocker--mahsang"></div>
+
+### GFW-knocker--MahsaNG
+
+🔗 [source](https://github.com/GFW-knocker/MahsaNG) – [<code><small>v16-(1405-2-25)</small></code>](https://github.com/GFW-knocker/MahsaNG/releases/tag/v16-(1405-2-25))
+
+| File | Size | Download |
+|------|------|----------|
+| `MahsaNG_16_arm64-v8a.apk` | 59.2 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_arm64-v8a.apk) |
+| `MahsaNG_16_armeabi-v7a.apk` | 60.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_armeabi-v7a.apk) |
+| `MahsaNG_16_universal.apk (part 1 of 2)` | 90.0 MB | [⬇️ Download (Part 1)](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_universal.apk.001) |
+| `MahsaNG_16_universal.apk (part 2 of 2)` | 82.3 MB | [⬇️ Download (Part 2)](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_universal.apk.002) |
+| `MahsaNG_16_x86.apk` | 63.7 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86.apk) |
+| `MahsaNG_16_x86_64.apk` | 62.3 MB | [⬇️ Download](https://raw.githubusercontent.com/mandyjohnson12/LatestReleaseMirror/main/releases/GFW-knocker/MahsaNG/MahsaNG_16_x86_64.apk) |
+
+---
+
 <div id="thisisdara--mhr-cfw-go"></div>
 
 ### ThisIsDara--mhr-cfw-go
